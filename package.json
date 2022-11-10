@@ -1,0 +1,22 @@
+{
+  "name": "nodejslab1",
+  "version": "1.0.0",
+  "description": "lab-1-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BogPin/nodejsLab1.git"
+  },
+  "keywords": [
+    "lab"
+  ],
+  "author": "BogPin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BogPin/nodejsLab1/issues"
+  },
+  "homepage": "https://github.com/BogPin/nodejsLab1#readme"
+}
