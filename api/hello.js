@@ -1,4 +1,4 @@
 export default function handler(req, res) {
-  const { name = "Worlld" } = req.query;
+  const { name = "World" } = req.query;
   return res.send(`Hello ${name}!`);
 }
